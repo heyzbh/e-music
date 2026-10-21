@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "E Music",
+    "slug": "e-music",
+    "version": "0.4.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0b0b0d",
+    "platforms": [
+      "android"
+    ],
+    "android": {
+      "package": "app.emusic",
+      "versionCode": 4,
+      "adaptiveIcon": {
+        "backgroundColor": "#07080b",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "plugins": [
+      "expo-image",
+      "expo-sqlite",
+      "./plugins/with-android-build"
+    ]
+  }
+}

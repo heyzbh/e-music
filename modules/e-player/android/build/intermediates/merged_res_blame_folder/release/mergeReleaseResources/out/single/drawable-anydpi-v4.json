@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_album.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_album.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_settings.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_settings.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_heart_filled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_heart_filled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_block.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_block.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_playback_speed_2_0.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_playback_speed_2_0.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_playback_speed_1_0.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_playback_speed_1_0.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_skip_back_15.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_skip_back_15.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_playlist_add.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_playlist_add.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_quality.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_quality.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_queue_remove.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_queue_remove.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_plus_circle_unfilled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_plus_circle_unfilled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_previous.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_previous.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_closed_captions_off.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_closed_captions_off.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_feed.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_feed.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_repeat_off.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_repeat_off.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_stop.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_stop.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_heart_unfilled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_heart_unfilled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_minus_circle_filled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_minus_circle_filled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_artist.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_artist.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_rewind.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_rewind.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_bookmark_unfilled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_bookmark_unfilled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_thumb_up_filled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_thumb_up_filled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_flag_unfilled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_flag_unfilled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_repeat_one.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_repeat_one.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_queue_add.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_queue_add.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_bookmark_filled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_bookmark_filled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_subtitles_off.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_subtitles_off.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_next.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_next.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_signal.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_signal.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_check_circle_unfilled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_check_circle_unfilled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_shuffle_on.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_shuffle_on.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_repeat_all.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_repeat_all.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_skip_forward.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_skip_forward.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_shuffle_star.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_shuffle_star.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_playback_speed_1_8.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_playback_speed_1_8.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_share.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_share.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_playback_speed_1_5.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_playback_speed_1_5.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_playback_speed_1_2.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_playback_speed_1_2.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_plus_circle_filled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_plus_circle_filled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_star_unfilled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_star_unfilled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_playback_speed.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_playback_speed.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_minus_circle_unfilled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_minus_circle_unfilled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_check_circle_filled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_check_circle_filled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_skip_forward_30.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_skip_forward_30.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_sync.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_sync.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_thumb_up_unfilled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_thumb_up_unfilled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_volume_off.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_volume_off.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_flag_filled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_flag_filled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_pause.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_pause.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_star_filled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_star_filled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_thumb_down_filled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_thumb_down_filled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_plus.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_plus.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_volume_up.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_volume_up.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_fast_forward.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_fast_forward.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_skip_back_30.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_skip_back_30.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_play.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_play.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_playlist_remove.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_playlist_remove.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_minus.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_minus.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_skip_forward_5.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_skip_forward_5.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_radio.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_radio.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_queue_next.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_queue_next.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_volume_down.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_volume_down.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_closed_captions.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_closed_captions.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_skip_back_5.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_skip_back_5.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_skip_forward_15.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_skip_forward_15.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_shuffle_off.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_shuffle_off.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_thumb_down_unfilled.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_thumb_down_unfilled.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_skip_forward_10.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_skip_forward_10.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_skip_back.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_skip_back.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_playback_speed_0_8.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_playback_speed_0_8.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_skip_back_10.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_skip_back_10.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_playback_speed_0_5.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_playback_speed_0_5.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable-anydpi-v4/media3_icon_subtitles.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable-anydpi-v4/media3_icon_subtitles.xml"
+    }
+]

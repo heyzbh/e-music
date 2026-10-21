@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable/notification_icon_background.xml",
+        "source": "app.emusic.player.e-player-core-1.17.0-2:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable/media_session_service_notification_ic_music_note.xml",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable/media_session_service_notification_ic_music_note.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable/ic_call_decline.xml",
+        "source": "app.emusic.player.e-player-core-1.17.0-2:/drawable/ic_call_decline.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable/ic_call_answer_video_low.xml",
+        "source": "app.emusic.player.e-player-core-1.17.0-2:/drawable/ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable/ic_call_decline_low.xml",
+        "source": "app.emusic.player.e-player-core-1.17.0-2:/drawable/ic_call_decline_low.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable/notification_tile_bg.xml",
+        "source": "app.emusic.player.e-player-core-1.17.0-2:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable/notification_bg_low.xml",
+        "source": "app.emusic.player.e-player-core-1.17.0-2:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable/media3_icon_circular_play.png",
+        "source": "app.emusic.player.e-player-media3-session-1.11.1-9:/drawable/media3_icon_circular_play.png"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable/notification_bg.xml",
+        "source": "app.emusic.player.e-player-core-1.17.0-2:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable/ic_call_answer.xml",
+        "source": "app.emusic.player.e-player-core-1.17.0-2:/drawable/ic_call_answer.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable/ic_call_answer_video.xml",
+        "source": "app.emusic.player.e-player-core-1.17.0-2:/drawable/ic_call_answer_video.xml"
+    },
+    {
+        "merged": "app.emusic.player.e-player-release-15:/drawable/ic_call_answer_low.xml",
+        "source": "app.emusic.player.e-player-core-1.17.0-2:/drawable/ic_call_answer_low.xml"
+    }
+]

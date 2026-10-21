@@ -1,0 +1,9 @@
+app.emusic.player.e-player-pngs-0 C:\Users\webpr\OneDrive\Projekti\e-music\modules\e-player\android\build\generated\res\pngs\release
+app.emusic.player.e-player-updated_navigation_xml-1 C:\Users\webpr\OneDrive\Projekti\e-music\modules\e-player\android\build\generated\updated_navigation_xml\release
+app.emusic.player.e-player-mergeReleaseResources-2 C:\Users\webpr\OneDrive\Projekti\e-music\modules\e-player\android\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+app.emusic.player.e-player-mergeReleaseResources-3 C:\Users\webpr\OneDrive\Projekti\e-music\modules\e-player\android\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+app.emusic.player.e-player-release-4 C:\Users\webpr\OneDrive\Projekti\e-music\modules\e-player\android\build\intermediates\merged_res\release\mergeReleaseResources
+app.emusic.player.e-player-release-5 C:\Users\webpr\OneDrive\Projekti\e-music\modules\e-player\android\build\intermediates\packaged_res\release\packageReleaseResources
+app.emusic.player.e-player-main-6 C:\Users\webpr\OneDrive\Projekti\e-music\modules\e-player\android\src\main\res
+app.emusic.player.e-player-release-7 C:\Users\webpr\OneDrive\Projekti\e-music\modules\e-player\android\src\release\res
+gradleHome-0 C:\Users\webpr\.gradle

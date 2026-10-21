@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"ଉତ୍ତର ଦିଅନ୍ତୁ"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"ଭିଡିଓ"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"ଅଗ୍ରାହ୍ୟ କର"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"ସମାପ୍ତ କରନ୍ତୁ"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"ଇନକମିଂ କଲ୍"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"ଚାଲିଥିବା କଲ୍"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"ଏକ ଇନକମିଂ କଲକୁ ସ୍କ୍ରିନ୍ କରୁଛି"</string>
+    <string name="default_notification_channel_name">ବର୍ତ୍ତମାନ ଚାଲୁଛି</string>
+    <string name="error_message_authentication_expired">ଏହି ଆପ ବ୍ୟବହାର କରିବାକୁ ସାଇନ ଇନ କରନ୍ତୁ</string>
+    <string name="error_message_bad_value">ଭୁଲ ଇନପୁଟ ଡାଟା</string>
+    <string name="error_message_concurrent_stream_limit">ଅନେକ ଡିଭାଇସରେ ଶୁଣାଯାଉଛି</string>
+    <string name="error_message_content_already_playing">ପୂର୍ବରୁ ସେହି ବିଷୟବସ୍ତୁ ଚଲାଯାଉଛି</string>
+    <string name="error_message_disconnected">ମିଡିଆ ଆପରୁ ଡିସକନେକ୍ଟ କରାଯାଇଛି</string>
+    <string name="error_message_end_of_playlist">ଧାଡ଼ିରେ ଆଉ କିଛି ନାହିଁ</string>
+    <string name="error_message_fallback">କିଛି ତ୍ରୁଟି ଅଛି। ପରେ ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="error_message_info_cancelled">ସମାପ୍ତ କରାଯାଇପାରିଲା ନାହିଁ। ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="error_message_invalid_state">ବର୍ତ୍ତମାନ ତାହା କରାଯାଇପାରିବ ନାହିଁ</string>
+    <string name="error_message_io">ଇନପୁଟ/ଆଉଟପୁଟ ତ୍ରୁଟି</string>
+    <string name="error_message_not_available_in_region">ଏଠାରେ ସେହି ବିଷୟବସ୍ତୁ ପାଇପାରିବେ ନାହିଁ</string>
+    <string name="error_message_not_supported">ଏହି ଆପ ତାହା କରିପାରିବ ନାହିଁ</string>
+    <string name="error_message_parental_control_restricted">ସେହି ବିଷୟବସ୍ତୁକୁ ବ୍ଲକ କରାଯାଇଛି</string>
+    <string name="error_message_permission_denied">ଆକ୍ସେସ ଅଗ୍ରାହ୍ୟ କରାଯାଇଛି</string>
+    <string name="error_message_premium_account_required">ପ୍ରିମିୟମ ଆକ୍ସେସ ଆବଶ୍ୟକ</string>
+    <string name="error_message_setup_required">ସେଟଅପ ଆବଶ୍ୟକ</string>
+    <string name="error_message_skip_limit_reached">ଆଉ ଅଧିକ ଟ୍ରାକକୁ ବାଦ ଦିଆଯାଇପାରିବ ନାହିଁ</string>
+    <string name="exo_download_completed">ଡାଉନଲୋଡ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି</string>
+    <string name="exo_download_description">ଡାଉନଲୋଡ କରନ୍ତୁ</string>
+    <string name="exo_download_downloading">ଡାଉନଲୋଡ ହେଉଛି</string>
+    <string name="exo_download_failed">ଡାଉନଲୋଡ ବିଫଳ ହୋଇଛି</string>
+    <string name="exo_download_notification_channel_name">ଡାଉନଲୋଡ</string>
+    <string name="exo_download_paused">ଡାଉନଲୋଡଗୁଡ଼ିକୁ ବିରତ କରାଯାଇଛି</string>
+    <string name="exo_download_paused_for_network">ଡାଉନଲୋଡଗୁଡ଼ିକ ନେଟୱାର୍କ ପାଇଁ ଅପେକ୍ଷା କରୁଛି</string>
+    <string name="exo_download_paused_for_wifi">ଡାଉନଲୋଡଗୁଡ଼ିକ ୱାଇଫାଇ ପାଇଁ ଅପେକ୍ଷା କରୁଛି</string>
+    <string name="exo_download_removing">ଡାଉନଲୋଡଗୁଡ଼ିକୁ କାଢ଼ି ଦିଆଯାଉଛି</string>
+    <string name="media3_controls_pause_description">ବିରତ କରନ୍ତୁ</string>
+    <string name="media3_controls_play_description">ଚଲାନ୍ତୁ</string>
+    <string name="media3_controls_seek_back_description">ପଛକୁ ଫେରାଇ ନିଅନ୍ତୁ</string>
+    <string name="media3_controls_seek_forward_description">ଆଗକୁ ବଢ଼ାନ୍ତୁ</string>
+    <string name="media3_controls_seek_to_next_description">ପରବର୍ତ୍ତୀ ଆଇଟମକୁ ଯାଆନ୍ତୁ</string>
+    <string name="media3_controls_seek_to_previous_description">ପୂର୍ବବର୍ତ୍ତୀ ଆଇଟମକୁ ଯାଆନ୍ତୁ</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

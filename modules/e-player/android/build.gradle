@@ -1,0 +1,32 @@
+plugins {
+  id 'com.android.library'
+  id 'expo-module-gradle-plugin'
+}
+
+group = 'app.emusic'
+version = '0.3.0'
+
+def media3Version = '1.11.1'
+
+android {
+  namespace "app.emusic.player"
+  defaultConfig {
+    versionCode 3
+    versionName '0.3.0'
+    consumerProguardFiles 'consumer-rules.pro'
+  }
+  compileOptions {
+    coreLibraryDesugaringEnabled true
+  }
+}
+
+dependencies {
+  implementation "androidx.media3:media3-exoplayer:$media3Version"
+  implementation "androidx.media3:media3-session:$media3Version"
+  implementation "androidx.media3:media3-datasource:$media3Version"
+  implementation "androidx.media3:media3-database:$media3Version"
+  implementation 'androidx.core:core-ktx:1.17.0'
+  // YouTube Music search and stream resolution (JitPack, declared in the root project).
+  implementation 'com.github.teamnewpipe:NewPipeExtractor:v0.26.5'
+  coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs_nio:2.1.5'
+}

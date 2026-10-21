@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"উত্তৰ দিয়ক"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"ভিডিঅ’"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"প্ৰত্যাখ্যান কৰক"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"কল কাটি দিয়ক"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"অন্তৰ্গামী কল"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"চলি থকা কল"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"এটা অন্তৰ্গামী কলৰ পৰীক্ষা কৰি থকা হৈছে"</string>
+    <string name="default_notification_channel_name">এতিয়া প্লে’ হৈ আছে</string>
+    <string name="error_message_authentication_expired">এই এপ্‌টো ব্যৱহাৰ কৰিবলৈ ছাইন ইন কৰক</string>
+    <string name="error_message_bad_value">ভুল ইনপুট ডেটা</string>
+    <string name="error_message_concurrent_stream_limit">বহুকেইটা ডিভাইচত শুনি আছে</string>
+    <string name="error_message_content_already_playing">সেই সমলটো ইতিমধ্যে প্লে’ হৈ আছে</string>
+    <string name="error_message_disconnected">মিডিয়া এপৰ পৰা সংযোগ বিচ্ছিন্ন কৰা হৈছে</string>
+    <string name="error_message_end_of_playlist">শাৰীত অন্য একো নাই</string>
+    <string name="error_message_fallback">কিবা ভুল হ’ল। পাছত চেষ্টা কৰক।</string>
+    <string name="error_message_info_cancelled">সম্পূৰ্ণ কৰিব পৰা নগ’ল। পুনৰ চেষ্টা কৰক।</string>
+    <string name="error_message_invalid_state">সেইটো এই মুহূৰ্তত কৰিব নোৱাৰি</string>
+    <string name="error_message_io">ইনপুট/আউটপুটৰ আসোঁৱাহ</string>
+    <string name="error_message_not_available_in_region">সেই সমলটো ইয়াত পাব নোৱাৰি</string>
+    <string name="error_message_not_supported">এই এপ্‌টোৱে সেয়া কৰিব নোৱাৰে</string>
+    <string name="error_message_parental_control_restricted">সেই সমলটো অৱৰোধ কৰা আছে</string>
+    <string name="error_message_permission_denied">এক্সেছ অস্বীকাৰ কৰা হৈছে</string>
+    <string name="error_message_premium_account_required">প্ৰিমিয়াম এক্সেছৰ প্ৰয়োজন</string>
+    <string name="error_message_setup_required">ছেটআপ কৰাৰ প্ৰয়োজন</string>
+    <string name="error_message_skip_limit_reached">আৰু কোনো ট্ৰেক এৰি যাব নোৱাৰি</string>
+    <string name="exo_download_completed">ডাউনল’ড সম্পূৰ্ণ হ’ল</string>
+    <string name="exo_download_description">ডাউনল’ড কৰক</string>
+    <string name="exo_download_downloading">ডাউনল’ড হৈ আছে</string>
+    <string name="exo_download_failed">ডাউনল’ড কৰিব পৰা নগ’ল</string>
+    <string name="exo_download_notification_channel_name">ডাউনল’ড</string>
+    <string name="exo_download_paused">ডাউনল’ড পজ কৰা হৈছে</string>
+    <string name="exo_download_paused_for_network">ডাউনল’ড হ’বলৈ নেটৱৰ্কৰৰ অপেক্ষাত আছে</string>
+    <string name="exo_download_paused_for_wifi">ডাউনল’ড হ’বলৈ ৱাই-ফাইৰ অপেক্ষাত আছে</string>
+    <string name="exo_download_removing">ডাউনল’ড আঁতৰাই থকা হৈছে</string>
+    <string name="media3_controls_pause_description">পজ কৰক</string>
+    <string name="media3_controls_play_description">প্লে’ কৰক</string>
+    <string name="media3_controls_seek_back_description">পিছলৈ যাওক</string>
+    <string name="media3_controls_seek_forward_description">আগলৈ যাওক</string>
+    <string name="media3_controls_seek_to_next_description">পৰৱৰ্তী বস্তুটোলৈ যাওক</string>
+    <string name="media3_controls_seek_to_previous_description">পূৰ্বৱৰ্তী বস্তুটোলৈ যাওক</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"৯৯৯+"</string>
+</resources>
