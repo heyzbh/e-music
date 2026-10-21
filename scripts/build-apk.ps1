@@ -31,7 +31,11 @@ if ($LASTEXITCODE -ge 8) { throw "robocopy failed with code $LASTEXITCODE" }
 Push-Location (Join-Path $Mirror "android")
 try {
   $env:JAVA_HOME = $jdk
-  & .\gradlew.bat assembleRelease -PreactNativeArchitectures=arm64-v8a --console=plain
+  # Old daemons keep files locked on Windows (seen in the lint cache); start clean.
+  & .\gradlew.bat --stop | Out-Null
+  # Lint "vital" checks are for store releases; skipping them avoids that lock and saves minutes.
+  & .\gradlew.bat assembleRelease -PreactNativeArchitectures=arm64-v8a --console=plain `
+    -x lintVitalAnalyzeRelease -x lintVitalReportRelease -x lintVitalRelease
   if ($LASTEXITCODE -ne 0) { throw "Gradle build failed" }
 } finally {
   Pop-Location

@@ -2,7 +2,7 @@
   "expo": {
     "name": "E Music",
     "slug": "e-music",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
@@ -12,9 +12,9 @@
     ],
     "android": {
       "package": "app.emusic",
-      "versionCode": 4,
+      "versionCode": 5,
       "adaptiveIcon": {
-        "backgroundColor": "#07080b",
+        "backgroundColor": "#372e7e",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"

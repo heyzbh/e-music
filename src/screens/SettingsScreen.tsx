@@ -209,7 +209,7 @@ export default function SettingsScreen() {
             source on every track.
           </Text>
           <Text style={[styles.hint, styles.version]}>
-            E Music 0.4 · {device.brand} {device.model} · Android API {device.sdkInt}
+            E Music 0.4.1 · {device.brand} {device.model} · Android API {device.sdkInt}
           </Text>
         </View>
       </ScrollView>
